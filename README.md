@@ -1,4 +1,4 @@
-# 77rp-inspired-garages
+# 77rp-garages-inspired
 
 Skrypt na garaże jesli chcesz takie dogadamy sie na dc: zajebiecizbani
 
